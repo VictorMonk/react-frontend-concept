@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-frontend-concept/static/css/main.01094a3c.css",
+    "main.js": "/react-frontend-concept/static/js/main.2f4babdb.js",
+    "static/js/453.fe841ae0.chunk.js": "/react-frontend-concept/static/js/453.fe841ae0.chunk.js",
+    "static/media/bird-image.jpg": "/react-frontend-concept/static/media/bird-image.5527dd85d9b94f9e1885.jpg",
+    "static/media/slick.svg": "/react-frontend-concept/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-frontend-concept/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-frontend-concept/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-frontend-concept/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-frontend-concept/index.html",
+    "main.01094a3c.css.map": "/react-frontend-concept/static/css/main.01094a3c.css.map",
+    "main.2f4babdb.js.map": "/react-frontend-concept/static/js/main.2f4babdb.js.map",
+    "453.fe841ae0.chunk.js.map": "/react-frontend-concept/static/js/453.fe841ae0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01094a3c.css",
+    "static/js/main.2f4babdb.js"
+  ]
+}
